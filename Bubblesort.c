@@ -1,5 +1,5 @@
 /*
- *Bubblesort.c
+ * Bubblesort.c
  *
  *
  *	Program to implement bubble sort
